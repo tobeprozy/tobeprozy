@@ -21,3 +21,26 @@ Here are some ideas to get you started:
 ## 目录
 - [Matlab学习](https://blog.csdn.net/seek97/category_9215123.html?spm=1001.2014.3001.5482)
 	* [Matlab坐标变换篇](https://blog.csdn.net/seek97/article/details/121756506)
+	* [Matlab—simulink—simscape学习指导](https://blog.csdn.net/seek97/article/details/121684885)
+	* [matlab绘图相关整理](https://blog.csdn.net/seek97/article/details/112756243)
+	* [Matlab算法篇-图像处理](https://blog.csdn.net/seek97/article/details/108347817)
+	* [Matlab机器学习之自动识别](https://blog.csdn.net/seek97/article/details/82823180)
+- [C++学习](https://blog.csdn.net/seek97/category_11222026.html)
+	* [C++ STL 容器相关知识](https://blog.csdn.net/seek97/article/details/124676800)
+	* [C、C++、C#、python、java编程—环境-特点](https://blog.csdn.net/seek97/article/details/119116872)
+- [Linux相关](-)
+	* [Ubuntu20.04安装ros及其应用](https://blog.csdn.net/seek97/article/details/123898543?spm=1001.2014.3001.5502)
+- [信号处理相关](-)
+	* [离散时间傅里叶变换Matlab实现](https://blog.csdn.net/seek97/article/details/82813515?spm=1001.2014.3001.5502)
+	* [对于互补滤波的解释](https://blog.csdn.net/seek97/article/details/81294097?spm=1001.2014.3001.5502)
+- [Solidwork](-)
+	* [Solidwork仿真总结](https://blog.csdn.net/seek97/article/details/124368553)
+	
+- [嵌入式相关](https://blog.csdn.net/seek97/category_11778621.html)	
+	* [两个蓝牙HC-05的完美配对](https://blog.csdn.net/seek97/article/details/81333701?spm=1001.2014.3001.5502)
+	
+- [内容管理](https://blog.csdn.net/seek97/category_11741441.html)	
+	* [Obsidian、Zettlr学习笔记 附Typora](https://blog.csdn.net/seek97/article/details/124023817)
+- [Git相关](https://blog.csdn.net/seek97/category_11553600.html)
+	* [git、GitHub、Gitee（码云）、GitBook、Copilot、GitLab概述](https://blog.csdn.net/seek97/article/details/124007773)
+
