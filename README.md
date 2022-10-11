@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 	* [C++ STL 容器相关知识](https://blog.csdn.net/seek97/article/details/124676800)
 	* [C、C++、C#、python、java编程—环境-特点](https://blog.csdn.net/seek97/article/details/119116872)
 - [Python学习](https://blog.csdn.net/seek97/category_12048896.html)
+	
 - [机器学习](https://blog.csdn.net/seek97/category_10706145.html)
+	* [图像分类算法—KNN、SVM、BP、CNN](https://blog.csdn.net/seek97/article/details/119219087)
+	* [机器学习算法C++实现](https://blog.csdn.net/seek97/article/details/119206336)
 - [C#学习](https://blog.csdn.net/seek97/category_11219649.html)
 - [数据结构与算法](https://blog.csdn.net/seek97/category_12048898.html)
 	
