@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Tobeprozy GitHub Profile README 
 
 
-<div align="center"> <img src="https://metrics.lecoq.io/tobeprozy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tobeprozy" /> </div>
 	
-目录
-*[Matlab学习](https://blog.csdn.net/seek97/category_9215123.html?spm=1001.2014.3001.5482)
-	*[Matlab坐标变换篇](https://blog.csdn.net/seek97/article/details/121756506)
+## 目录
+- [Matlab学习](https://blog.csdn.net/seek97/category_9215123.html?spm=1001.2014.3001.5482)
+	* [Matlab坐标变换篇](https://blog.csdn.net/seek97/article/details/121756506)
