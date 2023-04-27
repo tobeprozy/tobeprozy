@@ -1,5 +1,66 @@
 ### Hi there 👋
+# 👋 你好，我是 [Your_Name](https://your-personal-link.com)! 🚀
 
+![Profile views](https://gpvc.arturio.dev/Your_GitHub_Username)
+
+## 🌍 关于我
+
+- 🎓 我是在 **[天津大学](https://university-link.com)** **电子信息** 的学生。
+- 🔭 我目前正在从事 **传感与测量** 、 **机器人** 和 **自动驾驶** 项目。
+- 🌱 我正在学习 **深度学习**、**SLAM** 和 **优化算法**。
+- 💬 欢迎与我讨论 **信号处理**、**感知**、**嵌入式开发** 和 **控制**相关知识。
+- 📫 如何联系我：**[Your_Email](mailto:your-email@example.com)**。
+- 😄 爱好：**摄影**、**音乐**、**阅读** 和 **旅行**。
+
+## 🛠 技能
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Solidworks](https://img.shields.io/badge/-Solidworks-0077C9?style=flat&logo=solidworks&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium_Designer-0079C1?style=flat&logo=altium-designer&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🚘 自动驾驶技能
+
+- 📷 传感器：**相机**、**FMCW 毫米波雷达**、**激光雷达**、**IMU** 和 **里程计**。
+- 🛣️ 定位和建图：**SLAM（Cartographer、ORB-SLAM、VINS-Mono）**、**姿态估计** 和 **传感器融合**。
+- 🗺️ 路径规划：**A\*、PRM、RRT** 和 **采样算法**。
+- 🚗 控制：**运动学**、**动力学** 和 **模型预测控制（MPC）**。
+
+## 🤖 机器人技能
+
+- 🔧 机器人系统：**机器人建模和仿真**、**机器人运动学和动力学** 和 **机器人控制**。
+- 👀 感知：**图像处理**、**计算机视觉** 和 **点云处理**。
+- 🌐 导航：**路径规划**、**定位** 和 **映射**。
+- 🏭 应用：**工业自动化**、**服务机器人** 和 **医疗机器人**。
+
+## 📈 经历
+- 🏢**[意念控制四旋翼及其控制系统] 📆**[2018年-05月 至 2019年-05月]**
+- 🏢**[非圆齿轮自动换向抽气机-挑战杯] 📆**[2018年-05月 至 2019年-11月]**
+- 🏢**[清洁机器人] 📆**[2018年-05月 至 2019年-07月]**
+- 🏢**[共轴旋翼高速直升机桨叶防撞实时预警系统研究] 📆**[2020年-09月 至 2023年-03月]**
+- 🏢**[钢带平整度检测] 📆**[2022年-02月 至 2022年-06月]**
+- 🏢**[《舰机传递对准中杆臂矢量的实时监测研究》] 📆**[2020年-09月 至 2022年-05月]** 
+- 🏢**[《精密减速器高精度综合性能检测仪器开发与应用》] 📆**[2020年-09月 至 2022年-03月]** 
+## 📚 教育
+
+- 🎓 **[CMUT](https://university-link.com)**，机械工程
+- 🎓 **[TJU](https://university-link.com)**，电子信息
+
+## 🏆 奖项
+
+- 🥇 **[江苏省优秀毕业论文]，[2020年]
+- 🥈 **[十六届挑战杯全国大学生课外科技作品竞赛]，[2019年]
+- 🥉 **[ 中国工程机器人双足竞步窄组赛]，[2017年]
+- 🥉 **[恩智浦”杯智能车无线节能组]，[2018年]
+- 🥈 **[第 12 届全国大学生节能减排社会实践与科技竞赛]，[2019年]
+- 🥈 **[大学生趣味结构设计竞赛暨第三届徐州高校结构设计邀请赛]，[2019年]
+- ....
 <!--
 **tobeprozy/tobeprozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,58 +117,3 @@ Here are some ideas to get you started:
 - [多语言编程](https://blog.csdn.net/seek97/category_11239085.html)
 
 
-# 👋 你好，我是 [Your_Name](https://your-personal-link.com)! 🚀
-
-![Profile views](https://gpvc.arturio.dev/Your_GitHub_Username)
-
-## 🌍 关于我
-
-- 🎓 我是在 **[Your_University](https://university-link.com)** 学习 **计算机科学** 的学生。
-- 🔭 我目前正在从事 **机器人** 和 **自动驾驶** 项目。
-- 🌱 我正在学习 **深度学习**、**Web 开发** 和 **优化算法**。
-- 💬 欢迎与我讨论 **信号处理**、**感知**、**嵌入式开发** 和 **控制**。
-- 📫 如何联系我：**[Your_Email](mailto:your-email@example.com)**。
-- 😄 爱好：**摄影**、**音乐**、**阅读** 和 **旅行**。
-
-## 🛠 技能
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Solidworks](https://img.shields.io/badge/-Solidworks-0077C9?style=flat&logo=solidworks&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/-Altium_Designer-0079C1?style=flat&logo=altium-designer&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 🚘 自动驾驶技能
-
-- 📷 传感器：**相机**、**FMCW 毫米波雷达**、**激光雷达**、**IMU** 和 **里程计**。
-- 🛣️ 定位和建图：**SLAM（Cartographer、ORB-SLAM、VINS-Mono）**、**姿态估计** 和 **传感器融合**。
-- 🗺️ 路径规划：**A\*、PRM、RRT** 和 **采样算法**。
-- 🚗 控制：**运动学**、**动力学** 和 **模型预测控制（MPC）**。
-
-## 🤖 机器人技能
-
-- 🔧 机器人系统：**机器人建模和仿真**、**机器人运动学和动力学** 和 **机器人控制**。
-- 👀 感知：**图像处理**、**计算机视觉** 和 **点云处理**。
-- 🌐 导航：**路径规划**、**定位** 和 **映射**。
-- 🏭 应用：**工业自动化**、**服务机器人** 和 **医疗机器人**。
-
-## 📈 经历
-
-- 🏢 **[Your_Company](https://company-link.com)**，**机器人软件工程师实习生**
-- 📆 **[YYYY年-MM月 至 YYYY年-MM月]**，**实习生**
-- 📝 **职责：**在自动驾驶和机器人项目中进行软件开发、测试和部署。
-
-## 📚 教育
-
-- 🎓 **[Your_University](https://university-link.com)**，计算机科学，学士学位，[YYYY年 - YYYY年]
-
-## 🏆 奖项
-
-- 🥇 **第一名**，[比赛名称](比赛链接)，[YYYY年]
-- 🥈 **第二名**，[比赛名称](比赛链接)，[YYYY年]
-- 🥉 **第三名**，[比赛名称](比赛链接)，[YYYY年]
