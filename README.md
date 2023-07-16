@@ -25,6 +25,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+## 🤖 AI技能
+- 模型转换
+- 工具链
+- 算法移植
+- 
+
 ## 🚘 自动驾驶技能
 
 - 📷 传感器：**相机**、**FMCW 毫米波雷达**、**激光雷达**、**IMU** 和 **里程计**。
