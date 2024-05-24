@@ -1,8 +1,6 @@
 ### Hi there 👋
 # 👋 你好，我是 [南叔先生](https://your-personal-link.com)! 🚀
 
-![Profile views](https://gpvc.arturio.dev/tobeprozy)
-
 
 ## 🛠 技能
 
